@@ -1,0 +1,14 @@
+{
+  "euphoria": {
+    "card-game": {
+      "code_id": 541,
+      "addresses": {
+        "_": "aura1cdsf8pw2mu0xluvdrmzvvh9s3s9zn85h4l4yw8q6y2fln9eu0zjsptzkut",
+        "card-game": "aura133pffcysxrqc5hp42y9tppezhk09s2he4f7r9585982uds9tf3fqwe94ck"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
